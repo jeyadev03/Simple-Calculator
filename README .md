@@ -1,26 +1,18 @@
-#Simple Calculator 
-       
-        This is a beginner - friendly Python project that performs 
-	basic math operations - Addition , Subtraction , Multiplication and Division. 
+# Simple Calculator 🔢
 
-##Features 
-	 
-	Takes two numbers and an operation as an input from the user and supports 
-		~ Addition (+)
-		~ Subtraction (-)
-		~ Multiplication (*)
-		~ Division (/)
-		   ~ Handles division by zero	
+This is a beginner-friendly Python project that performs basic arithmetic operations:
 
-###How to Run 
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-	1. Open 'calculator.py' in any Python IDE(like Thonny)
-	2. Run the program
-	3. Follow the input prompts in the terminal
+## How to Run
+Run this script using Python 3:
 
-####Author
+```bash
+python calculator.py
 
-	[Jeyadev] (https://github.com/jeyadev03)
-	BTech CSE @ Amrita University
+Made with 💗 by Jeyadev
 	
 
