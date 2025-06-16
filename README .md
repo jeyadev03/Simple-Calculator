@@ -1,6 +1,7 @@
 #Simple Calculator 
        
-        This is a beginner - friendly Python project that performs basic math operations - Addition , Subtraction , Multiplication and Division. 
+        This is a beginner - friendly Python project that performs 
+	basic math operations - Addition , Subtraction , Multiplication and Division. 
 
 ##Features 
 	 
